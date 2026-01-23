@@ -33,4 +33,6 @@ This Power BI project that analyzes and visualizes credit card usage and custome
 3. People in the age group of 46 to 55 are more numerous compared to other age groups.
 4. The average customer satisfaction is 3 out of 5, with 3.06k people rating it 3.
 5. The top revenue-generating states are California, Texas, and New York, with a combined revenue of $2.7 million.
+## Author
+Maintained and updated by Pranshul Gupta
 
