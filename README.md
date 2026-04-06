@@ -41,11 +41,11 @@ sales-analytics-main/
 │   ├── 01_EDA_and_Insights.ipynb  # Deep dive into customer segmentation & trends
 │   └── 02_Churn_Risk_Model.ipynb  # Machine Learning model predicting delinquency
 ├── scripts/
-│   └── db_setup.py           # ETL script to load CSVs into SQLite database
-├── credit_card.csv           # Raw Transaction Data
-├── customer.csv              # Raw Customer Demographic Data
-├── financial_data.db         # Generated SQLite Database
-└── credit_card_analysis.pbix # Interactive Power BI Dashboard
+│   └── db_setup.py           # ETL script to load CSVs into SQLite database.
+├── credit_card.csv           # Raw Transaction Data.
+├── customer.csv              # Raw Customer Demographic Data.
+├── financial_data.db         # Generated SQLite Database.
+└── credit_card_analysis.pbix # Interactive Power BI Dashboard.
 ```
 
 ---
